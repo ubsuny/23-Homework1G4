@@ -27,10 +27,12 @@ The Truth Table of Teffoli or CCX gate will be as follows:
 
 ## For the unit test:
 1- 3 register q0,q1 and q3
+
 2- assign 0 state for q0,q1 and q3.
+
 3- apply Not gate to q1 to change its state to 1 instead of 0.
+
 4- apply Teffoli gate and a measure tool at q3 to check the result.
-![original-circuit](https://github.com/yasmensarhan27/23-Homework1G4/assets/38404107/2e259c91-5875-4ea9-8b10-2ad396971c08)
 
 
 ** Find the truth table and implementation below: **
